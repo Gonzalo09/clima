@@ -6,13 +6,17 @@ Bienvenido a la aplicación del clima de Argentina. Aquí podrás explorar las c
 
 ![Clima](./src/assets/Clima.jpg)
 
-<div 
+<!-- <div
     style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px"
 >
   <img src="./src/assets/Clima-celular-1.jpeg" alt="Responsive1" width="250"/>
   <img src="./src/assets/Clima-celular-2.jpeg" alt="Responsive2" width="250"/>
   <img src="./src/assets/Clima-celular-3.jpeg" alt="Responsive3" width="250"/>
-</div>
+</div> -->
+
+![Responsive1](./src/assets/Clima-celular-1.jpeg)
+![Responsive2](./src/assets/Clima-celular-2.jpeg)
+![Responsive3](./src/assets/Clima-celular-3.jpeg)
 
 ## Demo
 
