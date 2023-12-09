@@ -8,14 +8,14 @@ Bienvenido a la aplicación del clima de Argentina. Aquí podrás explorar las c
 
 ## Demo
 
-Podes acceder a la demo de la aplicación en el siguiente link: [Clima]()
+Podes acceder a la demo de la aplicación en el siguiente link: [Clima](https://clima-argentina.vercel.app/)
 
 ## Tecnologías utilizadas
 
 - React
+- JavaScript
 - HTML
 - CSS
-- JavaScript
 
 ## APIs utilizadas
 
@@ -32,13 +32,13 @@ Para poder instalar la aplicación en tu computadora, tenes que seguir los sigui
 1. Clonar el repositorio
 
    ```
-   git clone
+   git clone https://github.com/Gonzalo09/clima.git
    ```
 
 2. Acceder al directorio del proyecto
 
    ```
-   cd clima-app
+   cd clima
    ```
 
 3. Instalar las dependencias
