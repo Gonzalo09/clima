@@ -6,6 +6,12 @@ Bienvenido a la aplicación del clima de Argentina. Aquí podrás explorar las c
 
 ![Clima](./src/assets/Clima.jpg)
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="./src/assets/Clima-celular-1.jpeg" alt="Responsive1" width="200"/>
+  <img src="./src/assets/Clima-celular-2.jpeg" alt="Responsive2" width="200"/>
+  <img src="./src/assets/Clima-celular-3.jpeg" alt="Responsive3" width="200"/>
+</div>
+
 ## Demo
 
 Podes acceder a la demo de la aplicación en el siguiente link: [Clima](https://clima-argentina.vercel.app/)
