@@ -1,0 +1,59 @@
+.card {
+  font-weight: 900;
+  padding: 1em;
+  text-align: center;
+  color: #fff;
+
+  width: 250px;
+  height: 200px;
+  box-shadow: 0 1px 5px #00000099;
+
+  border-radius: 12px;
+  background-image: url(https://img.freepik.com/foto-gratis/disparo-vertical-lago-pukaki-mount-cook-nueva-zelanda_181624-18860.jpg?w=740&t=st=1702092533~exp=1702093133~hmac=70362dd2bf3bd7fdfef36651adeb6ebcd5016d3cdeef33b44b4423e2be290f8f);
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  opacity: 0.9;
+
+  position: relative;
+
+  transition-duration: 300ms;
+  transition-property: transform, box-shadow;
+  transition-timing-function: ease-out;
+  transform: rotate3d(0);
+}
+
+.card:hover {
+  transition-duration: 150ms;
+  box-shadow: 0 5px 20px 5px #00000044;
+}
+
+.card .glow {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+
+  background-image: radial-gradient(circle at 50% -20%, #ffffff22, #0000000f);
+}
+
+.card h1 {
+  font-size: 1.6rem;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  color: #242424;
+}
+
+.card h3 {
+  font-size: 1.2rem;
+  margin-top: 0.5em;
+}
+
+.card img {
+  width: 70px;
+  height: 70px;
+  margin: 0;
+  padding: 0;
+}
