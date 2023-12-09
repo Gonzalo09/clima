@@ -9,9 +9,9 @@ Bienvenido a la aplicación del clima de Argentina. Aquí podrás explorar las c
 <div 
     style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px 0 20px 0"
 >
-  <img src="./src/assets/Clima-celular-1.jpeg" alt="Responsive1" />
-  <img src="./src/assets/Clima-celular-2.jpeg" alt="Responsive2" />
-  <img src="./src/assets/Clima-celular-3.jpeg" alt="Responsive3" />
+  <img src="./src/assets/Clima-celular-1.jpeg" alt="Responsive1" width="200"/>
+  <img src="./src/assets/Clima-celular-2.jpeg" alt="Responsive2" width="200"/>
+  <img src="./src/assets/Clima-celular-3.jpeg" alt="Responsive3" width="200"/>
 </div>
 
 ## Demo
