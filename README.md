@@ -6,17 +6,17 @@ Bienvenido a la aplicación del clima de Argentina. Aquí podrás explorar las c
 
 ![Clima](./src/assets/Clima.jpg)
 
-<!-- <div
-    style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px"
+<div
+   style="
+      display: flex;
+      justify-content: space-between;
+      margin-top: 20px;
+   "
 >
   <img src="./src/assets/Clima-celular-1.jpeg" alt="Responsive1" width="250"/>
   <img src="./src/assets/Clima-celular-2.jpeg" alt="Responsive2" width="250"/>
   <img src="./src/assets/Clima-celular-3.jpeg" alt="Responsive3" width="250"/>
-</div> -->
-
-![Responsive1](./src/assets/Clima-celular-1.jpeg)
-![Responsive2](./src/assets/Clima-celular-2.jpeg)
-![Responsive3](./src/assets/Clima-celular-3.jpeg)
+</div>
 
 ## Demo
 
@@ -32,10 +32,10 @@ Podes acceder a la demo de la aplicación en el siguiente link: [Clima](https://
 ## APIs utilizadas
 
 - API: [Weather API](https://www.weatherapi.com/)
-  Utilice esta API para obtener la información del clima actual y el pronostico extendido de 3 días.
-  PD: Para poder utilizar esta API, es necesario registrarse y obtener una API Key.
+  - Utilice esta API para obtener la información del clima actual y el pronostico extendido de 3 días.
+  - PD: Para poder utilizar esta API, es necesario registrarse y obtener una API Key.
 - API: [API del Servicio de Normalización de Datos Geográficos de Argentina](https://datosgobar.github.io/georef-ar-api/)
-  Utilice esta API para obtener la información de las provincias y departamentos de Argentina.
+  - Utilice esta API para obtener la información de las provincias y departamentos de Argentina.
 
 ## Instalación
 
