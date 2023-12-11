@@ -1,5 +1,7 @@
 import { useEffect } from "react";
 
+import "./reloj.css";
+
 const Reloj = () => {
   const deg = 6;
 
