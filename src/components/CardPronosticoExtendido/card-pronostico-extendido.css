@@ -1,3 +1,7 @@
+/* 
+  Variables para la imagen de fondo de la card 
+*/
+
 .card {
   font-weight: 900;
   padding: 1em;
@@ -9,9 +13,9 @@
   box-shadow: 0 1px 5px #00000099;
 
   border-radius: 12px;
-  background-image: url(https://img.freepik.com/foto-gratis/disparo-vertical-lago-pukaki-mount-cook-nueva-zelanda_181624-18860.jpg?w=740&t=st=1702092533~exp=1702093133~hmac=70362dd2bf3bd7fdfef36651adeb6ebcd5016d3cdeef33b44b4423e2be290f8f);
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/895/717/92/nature-landscape-panoramas-horizon-wallpaper-preview.jpg);
   background-size: cover;
-  background-position: center bottom;
+  background-position: center left;
   background-repeat: no-repeat;
   opacity: 0.9;
 
